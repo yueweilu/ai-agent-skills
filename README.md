@@ -37,6 +37,11 @@
 | :--- | :--- | :--- |
 | [**system-info**](skills/system-info/SKILL.md) | Check system resource usage. | 检查主机的 CPU、内存和磁盘使用情况。 |
 
+### 🛠 Developer Tools
+| Skill Name | Description (EN) | 描述 (ZH) |
+| :--- | :--- | :--- |
+| [**github-manager**](skills/github-manager/SKILL.md) | Manage GitHub repos and issues via CLI. | 通过命令行管理 GitHub 仓库和 Issue。 |
+
 
 ## 🚀 How to Use
 
