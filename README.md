@@ -1,12 +1,18 @@
-# AI Agent Skills Collection 🤖
+# AI Agent Skills Collection | AI Agent 技能合集 🤖
 
-> A curated collection of modular skills (tools) designed for AI agents.
+> **[English](README.md) | [简体中文](README_zh-CN.md)**
 
-This repository hosts a set of standardized skills that AI agents (like Large Language Models) can utilize to interact with the real world—fetching data, controlling software, or processing files.
+---
 
-Each skill is self-contained with its own documentation and executable scripts.
+### 🌟 Introduction / 简介
 
-## 📂 Available Skills
+**EN**: A curated collection of modular skills (tools) designed for AI agents. This repository hosts standardized tools that AI agents (like Large Language Models) can utilize to interact with the real world—fetching data, controlling software, or processing files.
+
+**ZH**: 这是一个为 AI Agent 精心策划的模块化技能（工具）合集。本仓库托管了一组标准化的工具，AI Agent（如大型语言模型）可以利用这些技能与现实世界互动——获取数据、控制软件或处理文件。
+
+---
+
+## 📂 Available Skills / 可用技能
 
 | Skill Name | Description |
 | :--- | :--- |
