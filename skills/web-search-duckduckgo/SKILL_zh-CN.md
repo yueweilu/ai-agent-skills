@@ -1,6 +1,6 @@
 ---
 name: web-search-duckduckgo
-description: 执行匿名网络搜索并返回带有标题和链接的结果列表。
+DuckDuckGo 匿名网络搜索。
 ---
 
 # 网络搜索 (DuckDuckGo)

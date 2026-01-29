@@ -1,6 +1,6 @@
 ---
 name: sonoscli
-description: Control Sonos speakers (discover/status/play/volume/group).
+控制 Sonos 智能音响系统。
 homepage: https://sonoscli.sh
 metadata: {"moltbot":{"emoji":"🔊","requires":{"bins":["sonos"]},"install":[{"id":"go","kind":"go","module":"github.com/steipete/sonoscli/cmd/sonos@latest","bins":["sonos"],"label":"Install sonoscli (go)"}]}}
 ---

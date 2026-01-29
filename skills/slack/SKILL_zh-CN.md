@@ -1,6 +1,6 @@
 ---
 name: slack
-description: Use when you need to control Slack from Moltbot via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.
+发送 Slack 消息和管理频道。
 metadata: {"moltbot":{"emoji":"💬","requires":{"config":["channels.slack"]}}}
 ---
 

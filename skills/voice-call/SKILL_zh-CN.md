@@ -1,6 +1,6 @@
 ---
 name: voice-call
-description: Start voice calls via the Moltbot voice-call plugin.
+发起或管理语音通话。
 metadata: {"moltbot":{"emoji":"📞","skillKey":"voice-call","requires":{"config":["plugins.entries.voice-call.enabled"]}}}
 ---
 

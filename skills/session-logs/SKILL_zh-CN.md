@@ -1,6 +1,6 @@
 ---
 name: session-logs
-description: Search and analyze your own session logs (older/parent conversations) using jq.
+记录和检索 Agent 会话日志。
 metadata: {"moltbot":{"emoji":"📜","requires":{"bins":["jq","rg"]}}}
 ---
 

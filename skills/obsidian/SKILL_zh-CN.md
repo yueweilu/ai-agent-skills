@@ -1,6 +1,6 @@
 ---
 name: obsidian
-description: Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.
+读取和写入 Obsidian 笔记库。
 homepage: https://help.obsidian.md
 metadata: {"moltbot":{"emoji":"💎","requires":{"bins":["obsidian-cli"]},"install":[{"id":"brew","kind":"brew","formula":"yakitrak/yakitrak/obsidian-cli","bins":["obsidian-cli"],"label":"Install obsidian-cli (brew)"}]}}
 ---

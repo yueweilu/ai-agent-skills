@@ -1,6 +1,6 @@
 ---
 name: peekaboo
-description: Capture and automate macOS UI with the Peekaboo CLI.
+系统监控与进程检视工具。
 homepage: https://peekaboo.boo
 metadata: {"moltbot":{"emoji":"👀","os":["darwin"],"requires":{"bins":["peekaboo"]},"install":[{"id":"brew","kind":"brew","formula":"steipete/tap/peekaboo","bins":["peekaboo"],"label":"Install Peekaboo (brew)"}]}}
 ---

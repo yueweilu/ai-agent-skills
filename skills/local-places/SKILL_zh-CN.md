@@ -1,6 +1,6 @@
 ---
 name: local-places
-description: Search for places (restaurants, cafes, etc.) via Google Places API proxy on localhost.
+搜索附近的本地地点和服务。
 homepage: https://github.com/Hyaxia/local_places
 metadata: {"moltbot":{"emoji":"📍","requires":{"bins":["uv"],"env":["GOOGLE_PLACES_API_KEY"]},"primaryEnv":"GOOGLE_PLACES_API_KEY"}}
 ---

@@ -1,6 +1,6 @@
 ---
 name: bluebubbles
-description: Build or update the BlueBubbles external channel plugin for Moltbot (extension package, REST send/probe, webhook inbound).
+与 BlueBubbles (iMessage Android 客户端) 交互。
 ---
 
 # bluebubbles 技能

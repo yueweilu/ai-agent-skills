@@ -1,6 +1,6 @@
 ---
 name: openhue
-description: Control Philips Hue lights/scenes via the OpenHue CLI.
+控制 Philips Hue 智能灯泡。
 homepage: https://www.openhue.io/cli
 metadata: {"moltbot":{"emoji":"💡","requires":{"bins":["openhue"]},"install":[{"id":"brew","kind":"brew","formula":"openhue/cli/openhue-cli","bins":["openhue"],"label":"Install OpenHue CLI (brew)"}]}}
 ---

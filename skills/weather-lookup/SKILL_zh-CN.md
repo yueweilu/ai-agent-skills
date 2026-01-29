@@ -1,6 +1,6 @@
 ---
 name: weather-lookup
-description: 查询特定城市的实时天气状况。
+查询天气状况。
 ---
 
 # 天气查询技能 (Weather Lookup)

@@ -1,6 +1,6 @@
 ---
 name: mcporter
-description: Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.
+Minecraft 服务器管理工具。
 homepage: http://mcporter.dev
 metadata: {"moltbot":{"emoji":"📦","requires":{"bins":["mcporter"]},"install":[{"id":"node","kind":"node","package":"mcporter","bins":["mcporter"],"label":"Install mcporter (node)"}]}}
 ---

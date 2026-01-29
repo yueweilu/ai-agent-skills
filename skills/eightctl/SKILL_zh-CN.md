@@ -1,6 +1,6 @@
 ---
 name: eightctl
-description: Control Eight Sleep pods (status, temperature, alarms, schedules).
+控制 8bitdo 手柄或其他输入设备。
 homepage: https://eightctl.sh
 metadata: {"moltbot":{"emoji":"🎛️","requires":{"bins":["eightctl"]},"install":[{"id":"go","kind":"go","module":"github.com/steipete/eightctl/cmd/eightctl@latest","bins":["eightctl"],"label":"Install eightctl (go)"}]}}
 ---

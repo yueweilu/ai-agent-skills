@@ -1,6 +1,6 @@
 ---
 name: discord
-description: Use when you need to control Discord from Moltbot via the discord tool: send messages, react, post or upload stickers, upload emojis, run polls, manage threads/pins/search, create/edit/delete channels and categories, fetch permissions or member/role/channel info, or handle moderation actions in Discord DMs or channels.
+发送消息或管理 Discord 频道。
 metadata: {"moltbot":{"emoji":"🎮","requires":{"config":["channels.discord"]}}}
 ---
 

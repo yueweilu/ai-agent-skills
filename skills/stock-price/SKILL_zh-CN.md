@@ -1,6 +1,6 @@
 ---
 name: stock-price
-description: 获取指定股票代码的实时价格和市场数据。
+获取实时股票价格。
 ---
 
 # 股票价格技能 (Stock Price)

@@ -1,6 +1,6 @@
 ---
 name: apple-notes
-description: Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move, and export notes). Use when a user asks Moltbot to add a note, list notes, search notes, or manage note folders.
+读取和操作 Apple Notes（备忘录）。
 homepage: https://github.com/antoniorodr/memo
 metadata: {"moltbot":{"emoji":"📝","os":["darwin"],"requires":{"bins":["memo"]},"install":[{"id":"brew","kind":"brew","formula":"antoniorodr/memo/memo","bins":["memo"],"label":"Install memo via Homebrew"}]}}
 ---

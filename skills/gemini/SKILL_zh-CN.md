@@ -1,6 +1,6 @@
 ---
 name: gemini
-description: Gemini CLI for one-shot Q&A, summaries, and generation.
+调用 Google Gemini AI 模型。
 homepage: https://ai.google.dev/
 metadata: {"moltbot":{"emoji":"♊️","requires":{"bins":["gemini"]},"install":[{"id":"brew","kind":"brew","formula":"gemini-cli","bins":["gemini"],"label":"Install Gemini CLI (brew)"}]}}
 ---
