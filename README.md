@@ -126,14 +126,16 @@ You can install all dependencies for the skills at once:
 pip install -r requirements.txt
 ```
 
-## 🤝 Contributing
+## 🙏 Acknowledgments & References
 
-We welcome contributions! If you have built a useful tool for AI agents, please submit a PR.
+This project is built upon the open-source community. A massive shoutout to:
 
-1.  Create a new folder in `skills/`.
-2.  Add your script (e.g., `tool.py`).
-3.  Add a `SKILL.md` following the standard format.
-4.  Add an `Acknowledgments` section in your `SKILL.md` if adapted from another project.
+- **[Moltbot](https://github.com/moltbot/molt)**: A significant portion of the skills in this repository are ported and adapted from the Moltbot ecosystem. We are grateful for their pioneering work in AI agent tools.
+- [roadmap.sh](https://roadmap.sh) - For career path structures.
+- [Awesome Lists](https://github.com/sindresorhus/awesome) - For the community-driven collection model.
+- Various industry-specific documentation and expert blogs.
+
+If you believe a specific source should be credited, please open an issue or submit a PR.
 
 ## 📄 License
 

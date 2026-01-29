@@ -133,6 +133,17 @@ pip install -r requirements.txt
 3.  添加符合标准格式的 `SKILL.md`。
 4.  如果是改编自其他项目，请在 `SKILL.md` 中添加 `Acknowledgments`（致谢）部分。
 
+## 🙏 致谢与来源参考
+
+本项目建立在开源社区的基础之上。特别感谢：
+
+- **[Moltbot](https://github.com/moltbot/molt)**: 本仓库中的大量技能（如系统工具、集成插件）移植并改编自 Moltbot 生态系统。感谢他们在 AI Agent 工具领域的开创性工作。
+- [roadmap.sh](https://roadmap.sh) - 职业路径结构参考。
+- [Awesome Lists](https://github.com/sindresorhus/awesome) - 社区驱动的合集模式参考。
+- 各行业官方文档及专家博客。
+
+如果您认为某个特定来源应该被标注，请提交 Issue 或 PR。
+
 ## 📄 许可证
 
 MIT License
