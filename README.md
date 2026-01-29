@@ -14,15 +14,29 @@
 
 ## 📂 Available Skills / 可用技能
 
-| Skill Name | Description |
-| :--- | :--- |
-| [**weather-lookup**](skills/weather-lookup/SKILL.md) | Retrieve current weather conditions for a specific city. |
-| [**stock-price**](skills/stock-price/SKILL.md) | Retrieve real-time stock price and market data. |
-| [**web-search-duckduckgo**](skills/web-search-duckduckgo/SKILL.md) | Perform anonymous web searches to find information. |
-| [**system-info**](skills/system-info/SKILL.md) | Check system resource usage. | 检查主机的 CPU、内存和磁盘使用情况。 |
+### 🌐 Information & Search
+| Skill Name | Description (EN) | 描述 (ZH) |
+| :--- | :--- | :--- |
+| [**web-search-duckduckgo**](skills/web-search-duckduckgo/SKILL.md) | Perform anonymous web searches. | 执行匿名网络搜索以查找信息。 |
+| [**weather-lookup**](skills/weather-lookup/SKILL.md) | Retrieve current weather conditions. | 查询特定城市的实时天气状况。 |
+
+### 📊 Finance
+| Skill Name | Description (EN) | 描述 (ZH) |
+| :--- | :--- | :--- |
+| [**stock-price**](skills/stock-price/SKILL.md) | Retrieve real-time stock market data. | 获取实时股票价格和市场数据。 |
 | [**currency-converter**](skills/currency-converter/SKILL.md) | Real-time currency conversion. | 实时汇率转换。 |
+
+### 📂 File & Media
+| Skill Name | Description (EN) | 描述 (ZH) |
+| :--- | :--- | :--- |
 | [**pdf-text-extractor**](skills/pdf-text-extractor/SKILL.md) | Extract text from PDF files. | 从 PDF 文件中提取文本。 |
 | [**youtube-info**](skills/youtube-info/SKILL.md) | Fetch YouTube video metadata. | 获取 YouTube 视频元数据。 |
+
+### ⚙️ System
+| Skill Name | Description (EN) | 描述 (ZH) |
+| :--- | :--- | :--- |
+| [**system-info**](skills/system-info/SKILL.md) | Check system resource usage. | 检查主机的 CPU、内存和磁盘使用情况。 |
+
 
 ## 🚀 How to Use
 

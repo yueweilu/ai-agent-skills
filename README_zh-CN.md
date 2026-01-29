@@ -10,15 +10,28 @@
 
 ## 📂 可用技能 (Available Skills)
 
+### 🌐 信息与搜索 (Information & Search)
 | 技能名称 | 描述 |
 | :--- | :--- |
-| [**weather-lookup**](skills/weather-lookup/SKILL_zh-CN.md) | 查询特定城市的实时天气状况。 |
-| [**stock-price**](skills/stock-price/SKILL_zh-CN.md) | 获取实时股票价格和市场数据。 |
 | [**web-search-duckduckgo**](skills/web-search-duckduckgo/SKILL_zh-CN.md) | 执行匿名网络搜索以查找信息。 |
-| [**system-info**](skills/system-info/SKILL_zh-CN.md) | 检查主机的 CPU、内存和磁盘使用情况。 |
+| [**weather-lookup**](skills/weather-lookup/SKILL_zh-CN.md) | 查询特定城市的实时天气状况。 |
+
+### 📊 金融 (Finance)
+| 技能名称 | 描述 |
+| :--- | :--- |
+| [**stock-price**](skills/stock-price/SKILL_zh-CN.md) | 获取实时股票价格和市场数据。 |
 | [**currency-converter**](skills/currency-converter/SKILL_zh-CN.md) | 实时汇率转换。 |
+
+### 📂 文件与媒体 (File & Media)
+| 技能名称 | 描述 |
+| :--- | :--- |
 | [**pdf-text-extractor**](skills/pdf-text-extractor/SKILL_zh-CN.md) | 从 PDF 文件中提取文本。 |
 | [**youtube-info**](skills/youtube-info/SKILL_zh-CN.md) | 获取 YouTube 视频元数据。 |
+
+### ⚙️ 系统 (System)
+| 技能名称 | 描述 |
+| :--- | :--- |
+| [**system-info**](skills/system-info/SKILL_zh-CN.md) | 检查主机的 CPU、内存和磁盘使用情况。 |
 
 ## 🚀 如何使用
 
